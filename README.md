@@ -23,7 +23,8 @@ I enjoy turning messy data into useful insights, building reproducible workflows
 - 📈 I enjoy working with **Python, SQL, Power BI, Excel, and data visualization**
 - 💡 Interested in projects that connect **technical solutions with real-world problems**
 - 📍 Based in Ontario, Canada
-- 💼 Open to **Data Analyst / Data Science internship opportunities**
+- 💼 Open to **Data Analyst / Data Science/ BI full time roles**
+- 💼 Available to start full time January 2027.
 
 ---
 
